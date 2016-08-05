@@ -1,0 +1,45 @@
+_repo: The-Path-of-Life_8437
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Teixeira de Mattos, Alexander Louis
+    - De Mattos, Alexander Teixeira
+    - Mattos, Alexander Teixeira de
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+creator:
+  author:
+    agent_name: Streuvels, Stijn
+    aliases:
+    - Lateur, Frank
+    - Streuvels, Franciscus Petrus Marie
+    birthdate: 1871
+    deathdate: 1969
+    gutenberg_agent_id: '2746'
+    url: http://www.gutenberg.org/2009/agents/2746
+    wikipedia:
+    - http://nl.wikipedia.org/wiki/Stijn_Streuvels
+    - http://en.wikipedia.org/wiki/Stijn_Streuvels
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: The white sand-path -- In early winter -- Christmas night -- Loafing
+  -- Spring -- In the squall -- A pipe or no pipe -- On Sundays -- An accident --
+  White life -- The end.
+title: The Path of Life
+url: http://www.gutenberg.org/ebooks/8437
